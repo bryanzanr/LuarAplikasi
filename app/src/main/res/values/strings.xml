@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Luar Aplikasi</string>
     <string name="developer_name">Mobile Programming Fasilkom UI</string>
+    <string name="gps">Global Position Service</string>
+    <string name="ip">Internet Protocol Address</string>
+    <string name="op">Telecomunication Operator</string>
+    <string name="con">Number of Contacts</string>
+    <string name="bat">Current Battery Remaining</string>
 </resources>
